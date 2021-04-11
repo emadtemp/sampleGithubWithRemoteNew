@@ -13,7 +13,7 @@ class ViewController: UIViewController {
 	override func viewDidLoad() {
 		super.viewDidLoad()
 		
-		print("first: 1")
+		print("first: 11")
 		
 		print("second: gggggg")
 		
