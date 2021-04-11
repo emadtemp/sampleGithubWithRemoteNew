@@ -17,7 +17,7 @@ class ViewController: UIViewController {
 		
 		print("second: gggggg")
 		
-		print("third: no no nooo i said no")
+		print("third: no no nooo i said no no")
 		
 	}
 
