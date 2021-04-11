@@ -13,11 +13,11 @@ class ViewController: UIViewController {
 	override func viewDidLoad() {
 		super.viewDidLoad()
 		
-		print("first")
+		print("first: 1")
 		
-		print("second gggggg")
+		print("second: gggggg")
 		
-		print("third no no nooo i said no")
+		print("third: no no nooo i said no")
 		
 	}
 
